@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f33b8d0e-e0e2-4e79-b988-2c6da85a8534" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio1/Ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Ejercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio3/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio4/DbUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio4/Ejercicio4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/keyboard/Keyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoletinJDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BoletinJDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio1/Ejercicio1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +38,81 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BoletinFicheros" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="keyboard" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Ejercicio4">
+    <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio1.Ejercicio1" />
+      <module name="BoletinJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.Ejercicio2" />
+      <module name="BoletinJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio3.Ejercicio3" />
+      <module name="BoletinJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio4.Ejercicio4" />
+      <module name="BoletinJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ejercicio4" />
+        <item itemvalue="Application.Ejercicio3" />
+        <item itemvalue="Application.Ejercicio2" />
+        <item itemvalue="Application.Ejercicio1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -69,9 +144,61 @@
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="278" y="59" width="800" height="679" key="#Project_Structure/0.28.1366.740@0.28.1366.740" timestamp="1580642832855" />
+    <state x="511" y="112" width="324" height="574" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1580655860504">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="511" y="112" width="324" height="574" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.28.1366.740@0.28.1366.740" timestamp="1580655860504" />
+    <state x="411" y="156" width="524" height="486" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1580655874153">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="411" y="156" width="524" height="486" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.28.1366.740@0.28.1366.740" timestamp="1580655874153" />
+    <state x="461" y="156" width="424" height="486" key="FileChooserDialogImpl" timestamp="1580663535020">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="461" y="156" width="424" height="486" key="FileChooserDialogImpl/0.28.1366.740@0.28.1366.740" timestamp="1580663535020" />
+    <state width="1320" height="217" key="GridCell.Tab.0.bottom" timestamp="1580680672388">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.0.bottom/0.28.1366.740@0.28.1366.740" timestamp="1580680672388" />
+    <state width="1320" height="217" key="GridCell.Tab.0.center" timestamp="1580680672387">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.0.center/0.28.1366.740@0.28.1366.740" timestamp="1580680672387" />
+    <state width="1320" height="217" key="GridCell.Tab.0.left" timestamp="1580680672387">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.0.left/0.28.1366.740@0.28.1366.740" timestamp="1580680672387" />
+    <state width="1320" height="217" key="GridCell.Tab.0.right" timestamp="1580680672387">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.0.right/0.28.1366.740@0.28.1366.740" timestamp="1580680672387" />
+    <state width="1320" height="217" key="GridCell.Tab.1.bottom" timestamp="1580680672388">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.bottom/0.28.1366.740@0.28.1366.740" timestamp="1580680672388" />
+    <state width="1320" height="217" key="GridCell.Tab.1.center" timestamp="1580680672388">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.center/0.28.1366.740@0.28.1366.740" timestamp="1580680672388" />
+    <state width="1320" height="217" key="GridCell.Tab.1.left" timestamp="1580680672388">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.left/0.28.1366.740@0.28.1366.740" timestamp="1580680672388" />
+    <state width="1320" height="217" key="GridCell.Tab.1.right" timestamp="1580680672388">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state width="1320" height="217" key="GridCell.Tab.1.right/0.28.1366.740@0.28.1366.740" timestamp="1580680672388" />
+    <state x="166" y="28" width="1024" height="740" key="SettingsEditor" timestamp="1580659679407">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="166" y="28" width="1024" height="740" key="SettingsEditor/0.28.1366.740@0.28.1366.740" timestamp="1580659679407" />
     <state x="343" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580642826565">
       <screen x="0" y="28" width="1366" height="740" />
     </state>
     <state x="343" y="225" key="com.intellij.ide.util.TipDialog/0.28.1366.740@0.28.1366.740" timestamp="1580642826565" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580659668075">
+      <screen x="0" y="28" width="1366" height="740" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.28.1366.740@0.28.1366.740" timestamp="1580659668075" />
   </component>
 </project>
